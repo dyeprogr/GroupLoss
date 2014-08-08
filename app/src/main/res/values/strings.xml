@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GroupLoss</string>
+
+    <!-- Navigation Bar String -->
+    <string name="home_section">Home</string>
+    <string name="message_section">Messages</string>
+    <string name="workoutBuddy_section">Workout Buddies</string>
+    <string name="about_section">About</string>
+
+    <!-- Navigation Drawer-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Action Bar Strings-->
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Logout</string>
+
+
+    <!-- user interface Strings-->
+    <string name="username">Username</string>
+    <string name="self_worth">Self-Worth:</string>
+    <string name="progress">Goal Progress</string>
+    <string name="target">Target Goal</string>
+    <string name="favorite_exercise">Favorite Exercise </string>
+    <string name="Availability">Availability Time</string>
+    <string name="optimal_days">Optimal Days</string>
+    <string name="workout_partner">Ideal Workout Partner:</string>
+    <string name="message">Message</string>
+    <string name="Skip">Skip</string>
+
+<!-- Login Screen Strings -->
+   <string name="title_activity_login">Group=</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+</resources>
